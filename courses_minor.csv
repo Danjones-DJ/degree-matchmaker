@@ -1,47 +1,47 @@
-ukprn,kiscourseid,title,degree_type,year_abroad_available,industry_year_available,foundation_year_available
-10007784,UBADUTWFLM18,Dutch with Film Studies,BA,Yes,No,No
-10007784,UBADUTWMAN18,Dutch with Management Studies,BA,Yes,No,No
-10007784,UBAFREWFLM18,French with Film Studies,BA,Yes,No,No
-10007784,UBAFREWMAN18,French with Management Studies,BA,Yes,No,No
-10007784,UBAGERWFLM18,German with Film Studies,BA,Yes,No,No
-10007784,UBAGERWMAN18,German with Management Studies,BA,Yes,No,No
-10007784,UBAHISWABR18,History with a Year Abroad,BA,Yes,No,No
-10007784,UBAITAWFLM18,Italian with Film Studies,BA,Yes,No,No
-10007784,UBARUSWEEL18,Russian with an East European Language,BA,Yes,No,No
-10007784,UBASCAWFLM18,Scandinavian Studies with Film Studies,BA,Yes,No,No
-10007784,UBASCAWMAN18,Scandinavian Studies with Management Studies,BA,Yes,No,No
-10007784,UBASPAWFLM18,Spanish with Film Studies,BA,Yes,No,No
-10007784,UBASPAWMAN18,Spanish with Management Studies,BA,Yes,No,No
-10007784,UBLLAWSFRL18,Law with French Law,LLB,Yes,No,No
-10007784,UBLLAWSGRL18,Law with German Law,LLB,Yes,No,No
-10007784,UBLLAWSHSL18,Law with Hispanic Law,LLB,Yes,No,No
-10007784,UBSCHEWMAN18,Chemistry with Management Studies,BSc,No,No,No
-10007784,UBSCHEWMAT18,Chemistry with Mathematics,BSc,No,No,No
-10007784,UBSMATWECO18,Mathematics with Economics,BSc,No,No,No
-10007784,UBSMATWLAN18,Mathematics with Modern Languages,BSc,No,No,No
-10007784,UBSMATWMAN18,Mathematics with Management Studies,BSc,No,No,No
-10007784,UBSMATWMPH18,Mathematics with Mathematical Physics,BSc,No,No,No
-10007784,UBSPHYWMPH18,Physics with Medical Physics,BSc,No,No,No
-10007784,UBSPSYWEDU18,Psychology with Education,BSc,No,No,No
-10007784,UBSSSCSQME18,Social Sciences with Data Science,BSc,No,No,No
-10007784,UFBBENSING22,Biochemical Engineering with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes
-10007784,UFBBMDSING22,Biomedical Engineering with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes
-10007784,UFBCENSING22,Chemical Engineering with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes
-10007784,UFBCIVSING22,Civil Engineering with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes
-10007784,UFBCOMSING18,Computer Science with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes
-10007784,UFBMECSING22,Mechanical Engineering with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes
-10007784,UFMBENSING22,Biochemical Engineering with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes
-10007784,UFMBMDSING22,Biomedical Engineering with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes
-10007784,UFMCENSING22,Chemical Engineering with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes
-10007784,UFMCIVSING22,Civil Engineering with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes
-10007784,UFMCOMSING18,Computer Science with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes
-10007784,UFMMECSING22,Mechanical Engineering with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes
-10007784,UFMMECWBFN22,Mechanical Engineering with Business Finance with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes
-10007784,UMNMECWBFN22,Mechanical Engineering with Business Finance,Integrated MEng,No,No,No
-10007784,UMPPHMSREG01,Pharmacy with Integrated Pre-registration Training,MPharm,No,No,No
-10007784,UMSCHEWMAN18,Chemistry with Management Studies,Integrated MSCi,No,No,No
-10007784,UMSCHEWMAT18,Chemistry with Mathematics,Integrated MSCi,No,No,No
-10007784,UMSMATWECO18,Mathematics with Economics,Integrated MSCi,No,No,No
-10007784,UMSMATWLAN18,Mathematics with Modern Languages,Integrated MSCi,No,No,No
-10007784,UMSMATWMAN18,Mathematics with Management Studies,Integrated MSCi,No,No,No
-10007784,UMSMATWMPH18,Mathematics with Mathematical Physics,Integrated MSCi,No,No,No
+ukprn,kiscourseid,title,degree_type,year_abroad_available,industry_year_available,foundation_year_available,ucasprogid,crseurl
+10007784,UBADUTWFLM18,Dutch with Film Studies,BA,Yes,No,No,A49-H14,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-film-studies-ba
+10007784,UBADUTWMAN18,Dutch with Management Studies,BA,Yes,No,No,A49-G88,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/dutch-management-studies-ba
+10007784,UBAFREWFLM18,French with Film Studies,BA,Yes,No,No,A49-A07,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-film-studies-ba
+10007784,UBAFREWMAN18,French with Management Studies,BA,Yes,No,No,A49-A26,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/french-management-studies-ba
+10007784,UBAGERWFLM18,German with Film Studies,BA,Yes,No,No,A49-G91,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-film-studies-ba
+10007784,UBAGERWMAN18,German with Management Studies,BA,Yes,No,No,A49-G92,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/german-management-studies-ba
+10007784,UBAHISWABR18,History with a Year Abroad,BA,Yes,No,No,A24-A13,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/history-year-abroad-ba
+10007784,UBAITAWFLM18,Italian with Film Studies,BA,Yes,No,No,A49-G98,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/italian-film-studies-ba
+10007784,UBARUSWEEL18,Russian with an East European Language,BA,Yes,No,No,A24-A92,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/russian-east-european-language-ba
+10007784,UBASCAWFLM18,Scandinavian Studies with Film Studies,BA,Yes,No,No,A49-H24,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-film-studies-ba
+10007784,UBASCAWMAN18,Scandinavian Studies with Management Studies,BA,Yes,No,No,A49-H01,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/scandinavian-studies-management-studies-ba
+10007784,UBASPAWFLM18,Spanish with Film Studies,BA,Yes,No,No,A49-A41,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-film-studies-ba
+10007784,UBASPAWMAN18,Spanish with Management Studies,BA,Yes,No,No,A49-A45,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/spanish-management-studies-ba
+10007784,UBLLAWSFRL18,Law with French Law,LLB,Yes,No,No,A24-A31,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-french-llb
+10007784,UBLLAWSGRL18,Law with German Law,LLB,Yes,No,No,A24-A32,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-german-llb
+10007784,UBLLAWSHSL18,Law with Hispanic Law,LLB,Yes,No,No,A24-A33,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/law-hispanic-llb
+10007784,UBSCHEWMAN18,Chemistry with Management Studies,BSc,No,No,No,A23-J45,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-management-studies-bsc
+10007784,UBSCHEWMAT18,Chemistry with Mathematics,BSc,No,No,No,A23-J48,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc
+10007784,UBSMATWECO18,Mathematics with Economics,BSc,No,No,No,A24-A45,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-economics-bsc
+10007784,UBSMATWLAN18,Mathematics with Modern Languages,BSc,No,No,No,A24-A52,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-modern-languages-bsc
+10007784,UBSMATWMAN18,Mathematics with Management Studies,BSc,No,No,No,A24-A47,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-management-studies-bsc
+10007784,UBSMATWMPH18,Mathematics with Mathematical Physics,BSc,No,No,No,A24-A50,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-mathematical-physics-bsc
+10007784,UBSPHYWMPH18,Physics with Medical Physics,BSc,No,No,No,A24-A76,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/physics-medical-physics-bsc
+10007784,UBSPSYWEDU18,Psychology with Education,BSc,No,No,No,A24-A88,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/psychology-education-bsc
+10007784,UBSSSCSQME18,Social Sciences with Data Science,BSc,No,No,No,A24-B00,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/social-sciences-data-science-bsc
+10007784,UFBBENSING22,Biochemical Engineering with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes,A65-J91,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFBBMDSING22,Biomedical Engineering with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes,A66-J02,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFBCENSING22,Chemical Engineering with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes,A66-I91,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFBCIVSING22,Civil Engineering with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes,A66-A17,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFBCOMSING18,Computer Science with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes,A66-I94,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFBMECSING22,Mechanical Engineering with Integrated Foundation Year,BEng (Integrated Foundation Year),No,No,Yes,A66-J01,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFMBENSING22,Biochemical Engineering with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes,A66-J03,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFMBMDSING22,Biomedical Engineering with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes,A66-J19,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFMCENSING22,Chemical Engineering with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes,A65-J94,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFMCIVSING22,Civil Engineering with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes,A66-A13,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFMCOMSING18,Computer Science with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes,A66-J09,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFMMECSING22,Mechanical Engineering with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes,A66-J18,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UFMMECWBFN22,Mechanical Engineering with Business Finance with Integrated Foundation Year,MEng (Integrated Foundation Year),No,No,Yes,A67-I76,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/engineering-foundation-year
+10007784,UMNMECWBFN22,Mechanical Engineering with Business Finance,Integrated MEng,No,No,No,A23-J79,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mechanical-engineering-business-finance-meng
+10007784,UMPPHMSREG01,Pharmacy with Integrated Pre-registration Training,MPharm,No,No,No,A55-A57,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/pharmacy-integrated-pre-registration-training-mpharm
+10007784,UMSCHEWMAN18,Chemistry with Management Studies,Integrated MSCi,No,No,No,A23-J46,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-management-studies-msci
+10007784,UMSCHEWMAT18,Chemistry with Mathematics,Integrated MSCi,No,No,No,A23-J47,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-msci
+10007784,UMSMATWECO18,Mathematics with Economics,Integrated MSCi,No,No,No,A24-A46,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-economics-msci
+10007784,UMSMATWLAN18,Mathematics with Modern Languages,Integrated MSCi,No,No,No,A24-A51,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-modern-languages-msci
+10007784,UMSMATWMAN18,Mathematics with Management Studies,Integrated MSCi,No,No,No,A24-A48,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-management-studies-msci
+10007784,UMSMATWMPH18,Mathematics with Mathematical Physics,Integrated MSCi,No,No,No,A24-A49,https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/mathematics-mathematical-physics-msci
